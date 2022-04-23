@@ -13,16 +13,17 @@
 
 ## 目录
 
-- LinuxUsage(Linux命令使用及用法)
-    1. [查看系统信息](/LinuxUsage/SysInfo.ipynb)
-- Python(Python模块和Python脚本)
-    - 模块用法
-        1. [paramiko用法](/Python3/ModelUsage/paramiko.ipynb)
-    - python脚本
-        1. [设置pypi源](/Python3/Script/pypi.py)
-- ShellScript(Shell脚本)
-    1. [设置pypi源](/ShellScript/pypi.sh)
-- SoftwareUsage(软件使用)
-    1. [Git用法](/SoftwareUsage/Git.ipynb)
-    2. [Jupyter用法](/SoftwareUsage/Jupyter.ipynb)
-    3. [VScode用法](/SoftwareUsage/VScode.ipynb)
+- Linux(Linux命令使用及用法)
+    - CommandUsage(Linux命令使用及用法)
+        1. [查看系统信息](/blob/master/Linux/CommandUsage/SysInfo.ipynb)
+    - ShellScript(Shell脚本)
+        1. [设置pypi源](/blob/master/Linux/ShellScript/pypi.sh)
+- Python3(Python模块和Python脚本)
+    - MoudelUsage(模块用法)
+        1. [paramiko用法](/blob/master/Python3/ModelUsage/paramiko.ipynb)
+    - PythonScript(Python脚本)
+        1. [设置pypi源](/blob/master/Python3/Script/pypi.py)
+- SoftwareUsage(软件使用方法)
+    1. [Git用法](/blob/master/SoftwareUsage/Git.ipynb)
+    2. [Jupyter用法](/blob/master/SoftwareUsage/Jupyter.ipynb)
+    3. [VScode用法](/blob/master/SoftwareUsage/VScode.ipynb)
