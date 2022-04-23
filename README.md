@@ -14,15 +14,15 @@
 ## 目录
 
 - LinuxUsage(Linux命令使用及用法)
-    1. [查看系统信息](https://gitee.com/pyshcode/jupyter/blob/master/LinuxUsage/SysInfo.ipynb)
+    1. [查看系统信息](/LinuxUsage/SysInfo.ipynb)
 - Python(Python模块和Python脚本)
     - 模块用法
-        1. [paramiko用法](#paramiko.ipynb)
+        1. [paramiko用法](/Python3/ModelUsage/paramiko.ipynb)
     - python脚本
-        1. [设置pypi源](#pypi.py)
+        1. [设置pypi源](/Python3/Script/pypi.py)
 - ShellScript(Shell脚本)
-    1. [设置pypi源](#pypi.sh)
+    1. [设置pypi源](/ShellScript/pypi.sh)
 - SoftwareUsage(软件使用)
-    1. [Git用法](#GitUsage.ipynb)
-    2. [Jupyter用法](#JupyterUsage.ipynb)
-    3. [VScode用法](#VScodeUsage.ipynb)
+    1. [Git用法](/SoftwareUsage/Git.ipynb)
+    2. [Jupyter用法](/SoftwareUsage/Jupyter.ipynb)
+    3. [VScode用法](/SoftwareUsage/VScode.ipynb)
